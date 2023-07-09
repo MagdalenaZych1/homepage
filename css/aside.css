@@ -1,0 +1,34 @@
+.aside {
+    padding: 20px;
+    border: 30px solid rgb(193, 199, 160);
+    margin-bottom: 30px;
+}
+
+.aside__list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.aside__listItem {
+    margin: 10px 0px;
+}
+
+.aside__link {
+    color:rgb(99, 105, 70);
+    text-decoration: none;
+    padding: 5px;
+}
+
+.aside__link:focus {
+    outline: 2px solid rgb(243, 176, 176);
+}
+
+.aside__link:hover {
+    color: rgb(99, 105, 70);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.aside__link:active {
+    color: rgb(243, 176, 176);
+}

@@ -1,0 +1,35 @@
+.article {
+    padding: 20px;
+    border: 30px solid rgb(243, 176, 176);
+    margin-bottom: 30px;
+}
+
+.article__section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.table__caption {
+    font-weight: bold;
+    margin: 10px;
+}
+
+.table {
+    max-width: 400px;
+    margin: auto;
+    display: block;
+    border-collapse: collapse;
+}
+
+.table__tableCell {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 9px;
+}
+
+.table__tableRow:hover {
+    background-color: rgb(241, 198, 198);
+}
+
+.table__container {
+    overflow-x: auto;
+}
