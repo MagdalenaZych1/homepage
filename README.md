@@ -2,7 +2,7 @@
 
 ## demo
 
-https://github.com/MagdalenaZych1/homepage/tree/main
+https://magdalenazych1.github.io/homepage/
 
 ## Discription
 
